@@ -5,7 +5,7 @@
   ### Hello World! 
   
   
-  ### 🛠Avaliable Skills
+  ### 🛠Avaliable Skills🛠
   #### Languages
   <div align="center">
   <img alt = "Html" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -14,7 +14,7 @@
   
   
   
-  ### Find me
+  ### 📨Find me📨
   <div align="center">
   <a href="mailto:tirgh2192@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
   </div>
