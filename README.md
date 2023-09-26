@@ -6,10 +6,12 @@
   
   
   ### 🛠Avaliable Skills🛠
-  #### Languages
+  #### Languages and Tools
   <div align="center">
   <img alt = "Html" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img alt = "Html" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img alt = "Html" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img alt = "Html" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <div/>
   
   
